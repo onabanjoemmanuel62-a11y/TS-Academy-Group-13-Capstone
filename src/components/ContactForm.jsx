@@ -76,6 +76,10 @@ const ContactForm = () => {
 
   return (
     <section id="contact" className="contact">
+
+      {/* Eyebrow line sits right above the title */}
+      <p className="contact__eyebrow">Get in touch</p>
+
       <h2 className="contact__title">
         Have Questions About Planetary Science?
       </h2>
@@ -136,6 +140,10 @@ const ContactForm = () => {
                 <option value="lagos">Lagos</option>
                 <option value="abuja">Abuja</option>
                 <option value="ibadan">Ibadan</option>
+                 <option value="ijebu-ode">Ijebu-ode</option>
+                  <option value="Abeokuta">Abeokuta</option>
+                   <option value="Benin">Benin</option>
+                    <option value="Delta">Delta</option>
                 <option value="other">Other</option>
               </select>
               {errors.city && (
@@ -198,6 +206,8 @@ const ContactForm = () => {
               {errors.contactMethod && (
                 <span className="contact__error">{errors.contactMethod}</span>
               )}
+
+              <div className="contact__divider" />
 
               <p className="contact__group-label">
                 How did you hear about us?
