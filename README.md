@@ -5,6 +5,7 @@ This is a project for TS Academy. We built a website using React that shows info
 
 ## The Team:
 Onabanjo Emmanuel - Team Lead: https://github.com/onabanjoemmanuel62-a11y
+
 Tommy - Assistant Team Lead: https://github.com/TOSA122
 
 ## What this website does:
