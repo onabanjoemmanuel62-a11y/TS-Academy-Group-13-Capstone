@@ -28,6 +28,7 @@ Mobile Friendly: It looks good on phones and computers.
 | **Header & Video Section** | Horlah | ❌ Not Started |
 | **API Planet Integration** | Tommy | ❌ Not Started |
 | **Contact Form & Validation** | Emmanuel | ❌ Not Started |
+| **About Section & Footer**	| M	| ❌ Not Started |
 | **Responsive Mobile Layout** | TBD | ❌ Not Started |
 
 
