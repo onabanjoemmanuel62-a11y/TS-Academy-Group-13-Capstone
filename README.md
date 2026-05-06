@@ -4,7 +4,8 @@ This is a project for TS Academy. We built a website using React that shows info
 
 
 ## The Team:
-Onabanjo Emmanuel - Team Lead https://github.com/onabanjoemmanuel62-a11y
+Onabanjo Emmanuel - Team Lead: https://github.com/onabanjoemmanuel62-a11y
+Tommy - Assistant Team Lead: https://github.com/TOSA122
 
 ## What this website does:
 Planet Data: It pulls names and pictures of planets from an API.
@@ -23,7 +24,7 @@ Mobile Friendly: It looks good on phones and computers.
 | :--- | :--- | :--- |
 | **Project Lead & Repo Setup** | Onabanjo Emmanuel | ✅ Finished |
 | **README Documentation** | Onabanjo Emmanuel | ⏳ In Progress |
-| **Header & Video Section** | TBD | ❌ Not Started |
+| **Header & Video Section** | Horlah | ❌ Not Started |
 | **API Planet Integration** | TBD | ❌ Not Started |
 | **Contact Form & Validation** | TBD | ❌ Not Started |
 | **Responsive Mobile Layout** | TBD | ❌ Not Started |
