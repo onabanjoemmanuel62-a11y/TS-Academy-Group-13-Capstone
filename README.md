@@ -26,7 +26,7 @@ Mobile Friendly: It looks good on phones and computers.
 | **Project Lead & Repo Setup** | Onabanjo Emmanuel | ✅ Finished |
 | **README Documentation** | Onabanjo Emmanuel | ⏳ In Progress |
 | **Header & Video Section** | Horlah | ❌ Not Started |
-| **API Planet Integration** | TBD | ❌ Not Started |
+| **API Planet Integration** | Tommy | ❌ Not Started |
 | **Contact Form & Validation** | TBD | ❌ Not Started |
 | **Responsive Mobile Layout** | TBD | ❌ Not Started |
 
