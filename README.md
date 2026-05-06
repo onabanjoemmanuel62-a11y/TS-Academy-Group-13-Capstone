@@ -27,7 +27,7 @@ Mobile Friendly: It looks good on phones and computers.
 | **README Documentation** | Onabanjo Emmanuel | ⏳ In Progress |
 | **Header & Video Section** | Horlah | ❌ Not Started |
 | **API Planet Integration** | Tommy | ❌ Not Started |
-| **Contact Form & Validation** | TBD | ❌ Not Started |
+| **Contact Form & Validation** | Emmanuel | ❌ Not Started |
 | **Responsive Mobile Layout** | TBD | ❌ Not Started |
 
 
