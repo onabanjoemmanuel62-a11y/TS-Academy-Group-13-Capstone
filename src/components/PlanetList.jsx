@@ -27,8 +27,8 @@ const PlanetList = () => {
 
   return (
     <section className="planet-container">
-      {planets.map((planet, index) => (
-        <article key={index} className="planet-card">
+      {planets.map((planet) => (
+      <article key={planet.name} className="planet-card">
 
           <figure className="planet-figure">
             <img src={planet.image} alt={planet.name} />
