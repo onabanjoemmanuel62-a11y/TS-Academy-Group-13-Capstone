@@ -31,7 +31,10 @@ const PlanetList = () => {
       <article key={planet.name} className="planet-card">
 
           <figure className="planet-figure">
-            <img src={planet.image} alt={planet.name} />
+            <img src={planet.image} alt={planet.name}
+            onError={(e) => {e.target.src = "https://via.placeholder.com/150";
+  }}
+/>
           </figure>
 
           <h3>{planet.name}</h3>
