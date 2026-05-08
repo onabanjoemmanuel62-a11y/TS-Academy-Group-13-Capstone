@@ -1,40 +1,69 @@
 # Group 13 Capstone Project: The Planet Explorer
 
-This is a project for TS Academy. We built a website using React that shows information about different planets.
+A React-based web application that explores our solar system 
+through real planetary data fetched from an external API.
 
+## The Team
 
-## The Team:
-Onabanjo Emmanuel - Team Lead: https://github.com/onabanjoemmanuel62-a11y
+| Name | Role | GitHub |
+|---|---|---|
+| Onabanjo Emmanuel | Team Lead | https://github.com/onabanjoemmanuel62-a11y |
+| Tommy | Assistant Team Lead | https://github.com/TOSA122 |
+| Horlah | Developer | https://github.com/Olamile67 |
+| M (Miracle) | Developer | https://github.com/miracleosazuwa6-glitch |
 
-Tommy - Assistant Team Lead: https://github.com/TOSA122
+## What this website does
 
-## What this website does:
-Planet Data: It pulls names and pictures of planets from an API.
-
-Video Header: There is a cool space video at the top that plays by itself.
-
-Contact Form: People can send us messages using a form.
-
-Mobile Friendly: It looks good on phones and computers.
-
-
+- **Video Header** — A space video plays automatically at the top
+- **Planet Data** — Fetches planet names, images and data from an API
+- **Contact Form** — Users can send messages with full validation
+- **Mobile Friendly** — Fully responsive on phones and computers
 
 ## Task Distribution
 
 | Task Name | Assigned Member | Status |
-| :--- | :--- | :--- |
-| **Project Lead & Repo Setup** | Onabanjo Emmanuel | ✅ Finished |
-| **README Documentation** | Onabanjo Emmanuel | ⏳ In Progress |
-| **Header & Video Section** | Horlah | ❌ Not Started |
-| **API Planet Integration** | Tommy | ❌ Not Started |
-| **Contact Form & Validation** | Emmanuel | ❌ Not Started |
-| **About Section & Footer**	| M	| ❌ Not Started |
-| **Responsive Mobile Layout** | Group Effort (Final Sync) | ❌ Not Started |
+|---|---|---|
+| Project Lead & Repo Setup | Onabanjo Emmanuel | ✅ Finished |
+| README Documentation | Onabanjo Emmanuel | ✅ Finished |
+| Header & Video Section | Horlah | ✅ Finished |
+| API Planet Integration | Tommy | ⏳ In Progress |
+| Contact Form & Validation | Emmanuel | ✅ Finished |
+| About Section & Footer | M | ⏳ In Progress |
+| Responsive Mobile Layout | Group Effort (Final Sync) | ❌ Not Started |
 
+## Components
 
+| Component | File | Developer |
+|---|---|---|
+| Header & Hero Video | Header.jsx | Horlah |
+| Video Section | VideoSection.jsx | Horlah |
+| Planet Data Grid | PlanetList.jsx | Tommy |
+| API Service | services/api.js | Tommy |
+| Contact Form | ContactForm.jsx | Emmanuel |
+| Footer & About | Footer.jsx | M |
 
+## How to run this at home
 
-## How to run this at home:
-Download the code (Clone it).
-Type npm install in your terminal to get the parts ready.
-Type npm start to see the website.
+1. Clone the repository:
+   git clone https://github.com/onabanjoemmanuel62-a11y/TS-Academy-Group-13-Capstone.git
+
+2. Install dependencies:
+   npm install
+
+3. Start the app:
+   npm start
+
+4. Open your browser at:
+   http://localhost:3000
+
+## Live Demo
+
+🔗 Coming soon — will be updated after deployment
+
+## Built With
+
+- React
+- CSS3
+- Fetch API
+- Git & GitHub
+- Deployed on Netlify

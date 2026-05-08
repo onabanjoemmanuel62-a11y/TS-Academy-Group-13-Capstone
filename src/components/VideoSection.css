@@ -1,0 +1,34 @@
+.video-section {
+  background: #f5f5f5;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.video-text h2 {
+  color: #1e4ed8;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.video-text p {
+  max-width: 700px;
+  margin: 0 auto 50px;
+  color: #555;
+  line-height: 1.7;
+}
+
+/* Video container */
+.video-container {
+  position: relative;
+  max-width: 900px;
+  margin: auto;
+  border-radius: 20px;
+  overflow: hidden;
+}
+
+/* Video */
+.space-video {
+  width: 100%;
+  display: block;
+  border-radius: 20px;
+}
