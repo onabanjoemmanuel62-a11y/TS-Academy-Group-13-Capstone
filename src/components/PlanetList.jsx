@@ -35,7 +35,7 @@ const PlanetList = () => {
   if (error) return <p className="error">{error}</p>;
 
   return (
-    <section className="planet-container">
+    <section id="planets" className="planet-container">
       {planets.map((planet) => (
         <article key={planet.name} className="planet-card">
           <figure className="planet-figure">
