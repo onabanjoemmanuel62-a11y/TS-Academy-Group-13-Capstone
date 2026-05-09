@@ -2,9 +2,19 @@
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
   gap: 1.5rem;
-  padding: 2rem;
+  padding: 4rem;
   max-width: 1200px;
   margin: 0 auto;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+  position: relative;
+  z-index: 1;
+}
+
+.planet-section {
+  position: relative;
+  background: #060b14;
+  padding: 2rem 0;
+  overflow: hidden;
 }
 
 /* Card */
@@ -49,4 +59,8 @@
 .planet-card p {
   font-size: 0.9rem;
   color: #a1a1aa;
+}
+
+body {
+  background-color: #080d16;
 }
