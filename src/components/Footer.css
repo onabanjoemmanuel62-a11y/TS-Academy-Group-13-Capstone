@@ -4,7 +4,7 @@
    ================================ */
 
 .main-footer {
-  background-color: linear-gradient(180deg, #080d16 0%, #0a1628 100%);
+  bbackground: linear-gradient(180deg, #080d16 0%, #0a1628 100%);
   color: #e2e8f0;
   padding: 3rem 2.5rem 1.5rem;
   border-top: 1px solid rgba(99, 179, 237, 0.1);
