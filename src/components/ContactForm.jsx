@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import './ContactForm.css';
+import SpaceBackground from './Spacebackground';
 
 const ContactForm = () => {
 
@@ -75,6 +76,8 @@ const ContactForm = () => {
   };
 
   return (
+    <div className="contact-section">
+      <SpaceBackground />
     <section id="contact" className="contact">
 
       {/* Eyebrow line sits right above the title */}
@@ -244,6 +247,7 @@ const ContactForm = () => {
         </form>
       )}
     </section>
+    </div>
   );
 };
 
