@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import "./PlanetList.css";
-
+import PlanetBackground from './Planetbackground';
 const PlanetList = () => {
   const [planets, setPlanets] = useState([]);
   const [loading, setLoading] = useState(true);
@@ -35,7 +35,9 @@ const PlanetList = () => {
   if (error) return <p className="error">{error}</p>;
 
   return (
-    <section id="planets" className="planet-container">
+    <section id="planets" className="planet-section">
+      <PlanetBackground />
+  <div className="planet-container">
       {planets.map((planet) => (
         <article key={planet.name} className="planet-card">
           <figure className="planet-figure">
@@ -57,6 +59,7 @@ const PlanetList = () => {
           </p>
         </article>
       ))}
+    </div>
     </section>
   );
 };
