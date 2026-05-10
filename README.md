@@ -26,10 +26,10 @@ through real planetary data fetched from an external API.
 | Project Lead & Repo Setup | Onabanjo Emmanuel | ✅ Finished |
 | README Documentation | Onabanjo Emmanuel | ✅ Finished |
 | Header & Video Section | Horlah | ✅ Finished |
-| API Planet Integration | Tommy | ⏳ In Progress |
+| API Planet Integration | Tommy | ✅ Finished |
 | Contact Form & Validation | Emmanuel | ✅ Finished |
-| About Section & Footer | M | ⏳ In Progress |
-| Responsive Mobile Layout | Group Effort (Final Sync) | ❌ Not Started |
+| About Section & Footer | M | ✅ Finished |
+| Responsive Mobile Layout | Group Effort (Final Sync) | ✅ Finished |
 
 ## Components
 
