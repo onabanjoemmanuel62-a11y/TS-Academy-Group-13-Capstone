@@ -64,3 +64,82 @@
 body {
   background-color: #080d16;
 }
+
+/* ── Planetary Facts Table ── */
+.planet-table-section {
+  max-width: 800px;
+  margin: 4rem auto;
+  padding: 2.5rem;
+  background: #0d1424;
+  border: 1px solid rgba(56, 189, 248, 0.1);
+  border-radius: 20px;
+  position: relative;
+}
+
+.planet-table-section::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 10%;
+  right: 10%;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(56, 189, 248, 0.6),
+    transparent
+  );
+}
+
+.planet-table-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  color: #f0f4ff;
+  margin-bottom: 0.5rem;
+  letter-spacing: -0.02em;
+}
+
+.planet-table-subtitle {
+  font-size: 0.88rem;
+  color: #64748b;
+  margin-bottom: 2rem;
+  line-height: 1.7;
+}
+
+.planet-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.planet-table th {
+  background: rgba(56, 189, 248, 0.08);
+  color: #38bdf8;
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 0.875rem 1.25rem;
+  text-align: left;
+  border-bottom: 1px solid rgba(56, 189, 248, 0.15);
+}
+
+.planet-table td {
+  padding: 0.875rem 1.25rem;
+  font-size: 0.9rem;
+  color: #94a3b8;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.04);
+}
+
+.planet-table tbody tr:last-child td {
+  border-bottom: none;
+}
+
+.planet-table tbody tr:hover td {
+  background: rgba(56, 189, 248, 0.03);
+  color: #e2e8f0;
+}
+
+.planet-table td:first-child {
+  color: #e2e8f0;
+  font-weight: 500;
+}
