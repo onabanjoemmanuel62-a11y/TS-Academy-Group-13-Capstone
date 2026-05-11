@@ -11,6 +11,7 @@ through real planetary data fetched from an external API.
 | Tommy | Assistant Team Lead | https://github.com/TOSA122 |
 | Horlah | Developer | https://github.com/Olamile67 |
 | M (Miracle) | Developer | https://github.com/miracleosazuwa6-glitch |
+| Ayomide | Developer | https://github.com/Ayoo-a |
 
 ## What this website does
 
