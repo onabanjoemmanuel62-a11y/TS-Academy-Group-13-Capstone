@@ -1,6 +1,5 @@
 # Group 13 Capstone Project: The Planet Explorer
-
-A React-based web application that explores our solar system 
+A React-based web application that explores our solar system
 through real planetary data fetched from an external API.
 
 ## The Team
@@ -12,9 +11,9 @@ through real planetary data fetched from an external API.
 | Horlah | Developer | https://github.com/Olamile67 |
 | M (Miracle) | Developer | https://github.com/miracleosazuwa6-glitch |
 | Ayomide | Developer | https://github.com/Ayoo-a |
+| Dr. Spaiz | Developer | https://github.com/spaiz-tech |
 
 ## What this website does
-
 - **Video Header** — A space video plays automatically at the top
 - **Planet Data** — Fetches planet names, images and data from an API
 - **Contact Form** — Users can send messages with full validation
@@ -62,7 +61,6 @@ through real planetary data fetched from an external API.
 🔗 Coming soon — will be updated after deployment
 
 ## Built With
-
 - React
 - CSS3
 - Fetch API
