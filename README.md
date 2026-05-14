@@ -13,6 +13,7 @@ through real planetary data fetched from an external API.
 | Ayomide | Developer | https://github.com/Ayoo-a |
 | Dr. Spaiz | Developer | https://github.com/spaiz-tech |
 | Edikan Inyang | Developer | https://github.com/Edikan19 |
+| Nnabu-Okeke Ginikachukwu | Developer | https://github.com/fbr734 |
 
 ## What this website does
 - **Video Header** — A space video plays automatically at the top
