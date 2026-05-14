@@ -12,6 +12,7 @@ through real planetary data fetched from an external API.
 | M (Miracle) | Developer | https://github.com/miracleosazuwa6-glitch |
 | Ayomide | Developer | https://github.com/Ayoo-a |
 | Dr. Spaiz | Developer | https://github.com/spaiz-tech |
+| Edikan Inyang | Developer | https://github.com/Edikan19 |
 
 ## What this website does
 - **Video Header** — A space video plays automatically at the top
