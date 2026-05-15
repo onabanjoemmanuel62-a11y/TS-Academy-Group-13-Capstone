@@ -14,6 +14,7 @@ through real planetary data fetched from an external API.
 | Dr. Spaiz | Developer | https://github.com/spaiz-tech |
 | Edikan Inyang | Developer | https://github.com/Edikan19 |
 | Nnabu-Okeke Ginikachukwu | Developer | https://github.com/fbr734 |
+| Ugwu Chidera Collins | Developer | [V3NOM-oss](https://github.com/V3NOM-oss) |
 
 ## What this website does
 - **Video Header** — A space video plays automatically at the top
