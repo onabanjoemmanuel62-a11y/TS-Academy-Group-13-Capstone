@@ -61,8 +61,7 @@ through real planetary data fetched from an external API.
    http://localhost:3000
 
 ## Live Demo
-
-🔗 Coming soon — will be updated after deployment
+🔗 https://novara-group-13-capstone.netlify.app
 
 ## Built With
 - React
