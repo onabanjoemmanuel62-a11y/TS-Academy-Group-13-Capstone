@@ -7,14 +7,16 @@ through real planetary data fetched from an external API.
 | Name | Role | GitHub |
 |---|---|---|
 | Onabanjo Emmanuel | Team Lead | https://github.com/onabanjoemmanuel62-a11y |
-| Tommy | Assistant Team Lead | https://github.com/TOSA122 |
-| Horlah | Developer | https://github.com/Olamile67 |
-| M (Miracle) | Developer | https://github.com/miracleosazuwa6-glitch |
+| Olatomiwa | Assistant Team Lead | https://github.com/TOSA122 |
+| Olalekan | Developer | https://github.com/Olamile67 |
+| Miracle | Developer | https://github.com/miracleosazuwa6-glitch |
 | Ayomide | Developer | https://github.com/Ayoo-a |
-| Dr. Spaiz | Developer | https://github.com/spaiz-tech |
+| Temitope | Developer | https://github.com/spaiz-tech |
 | Edikan Inyang | Developer | https://github.com/Edikan19 |
 | Nnabu-Okeke Ginikachukwu | Developer | https://github.com/fbr734 |
-| Ugwu Chidera Collins | Developer | [V3NOM-oss](https://github.com/V3NOM-oss) |
+| Ugwu Chidera Collins | Developer | https://github.com/V3NOM-oss |
+| Olusegun E. Adebisi | Developer | https://github.com/oluwasegunelijahadebisi |
+| Okakah Ogbeide Ernest | Developer | https://github.com/ernesto900 |
 
 ## What this website does
 - **Video Header** — A space video plays automatically at the top
@@ -60,8 +62,7 @@ through real planetary data fetched from an external API.
    http://localhost:3000
 
 ## Live Demo
-
-🔗 Coming soon — will be updated after deployment
+🔗 https://novara-group-13-capstone.netlify.app
 
 ## Built With
 - React

@@ -15,7 +15,8 @@ const Footer = () => {
           and visualize planetary data from our solar system.
         </p>
         <p className="footer-names">
-          Miracle, Emmanuel, Olalekan, Olatomiwa, Edikan, Chidera, Temitope, Ginikachukwu
+          <h3>This student's whose name appear here contributed to this capstone project</h3>
+          Miracle, Emmanuel, Olalekan, Olatomiwa, Edikan, Chidera, Temitope, Ginikachukwu, Okakah, Olusegun
         </p>
       </div>
 
