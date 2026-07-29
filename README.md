@@ -14,6 +14,7 @@ through real planetary data fetched from an external API.
 | Temitope | Developer | https://github.com/spaiz-tech |
 | Edikan Inyang | Developer | https://github.com/Edikan19 |
 | Nnabu-Okeke Ginikachukwu | Developer | https://github.com/fbr734 |
+| Ugwu Chidera Collins | Developer | https://github.com/V3NOM-oss |
 | Olusegun E. Adebisi | Developer | https://github.com/oluwasegunelijahadebisi |
 | Okakah Ogbeide Ernest | Developer | https://github.com/ernesto900 |
 
